@@ -1,0 +1,11 @@
+# Ambiente virtual Python
+venv/
+env/
+__pycache__/
+
+# Dados do Dataset
+data/
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
